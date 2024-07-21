@@ -1,6 +1,7 @@
 # Site settings
 title: "Jekyll Resume Template"
 description: "A resume template for Jekyll and GitHub Pages sites."
+url: https://nasa19c.github.io/nasa19c_resume.github.io/
 
 # Build settings
 markdown: kramdown
