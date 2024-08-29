@@ -14,7 +14,7 @@ livereload: true
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "SangHyun Nam"
-resume_title:                   "Communications"
+resume_title:                   "Resumes"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "nasa19c@gmail.com"
@@ -64,3 +64,7 @@ resume_theme:                   default
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts
+
+plugins:
+  - jekyll-livereload
+
